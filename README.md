@@ -1,4 +1,4 @@
-![The name Olivia spelled with six Landsat images that show parts of the physical landscape resembling each letter](https://github.com/via-zhang/via-zhang/blob/main/images/Landsat_Name_Olivia.png)
+![The name Olivia spelled with six Landsat images that show parts of the physical landscape resembling each letter](https://github.com/via-zhang/via-zhang/blob/main/images/Landsat_Name.png)
 
 🌱 Hi! I'm a Geography and Data Science student at the University of Florida, passionate about leveraging geospatial data to combat climate change and to gain a better understanding of our cultural and physical landscapes. I hope to apply geospatial research and data storytelling to help communities build resilience against climate change.
 
