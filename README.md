@@ -5,7 +5,7 @@
 🎨 As an artist, I love to embrace creativity in everything I do, from visualizing data to making dashboards. I chose to study the intersection of data science and geography because of the opportunities to inspire sustainable solutions through collaboration, research, and storytelling.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/via-zhang/via-zhang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/via-zhang/via-zhang/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/via-zhang/via-zhang/output/github-contribution-grid-snake.svg">
 </picture>
